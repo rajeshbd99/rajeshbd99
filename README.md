@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img align="right" alt="coding" width = "180" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
 👋 Hey there! I'm RAJESH CHOWDHURY, a passionate coder exploring the tech universe one bug at a time.<br><br>💻 Coding enthusiast on a mission to turn ideas into reality through elegant lines of code.<br><br>🌱 Lifelong learner, constantly embracing new technologies and seeking innovative solutions.<br><br>🤝 Firm believer in the power of collaboration, let's build something awesome together!<br><br>📚 When not coding, you'll find me with a book in hand or outdoors, seeking inspiration.<br><br>🚀 Join me in this journey of creativity, curiosity, and endless lines of code!
 
 ---
