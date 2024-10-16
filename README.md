@@ -44,11 +44,6 @@
 ## 🚩 Coding Platform Stats
 ![LeetCode Stats](https://leetcode.card.workers.dev/Rajeshbd2001?theme=light,unicorn)<img margin="40px" align="right"></p>
 
-| 🤪Fun Fact🤪  | 🎧Spotify🎧 |
- | :---: | :---: |
-| <br><br>![Jokes Card](https://readme-jokes.vercel.app/api?theme=blueberry) | [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31ngxw5xgsjaij6ffupb6hwggzim&redirect=true) |
-|  |  |
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
