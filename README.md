@@ -1,3 +1,9 @@
+<div align="center">
+
+![Header](./Banner.png)
+
+</div>
+
 <h1 align="center">Hi 👋, I'm Rajesh Chowdhury</h1>
 <h3 align="center">A passionate Computer Science Engineer and Competitive Programmer from Bangladesh.</h3>
 
