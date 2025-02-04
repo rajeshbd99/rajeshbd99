@@ -48,7 +48,8 @@
 ![](https://github-profile-trophy.vercel.app/?username=rajeshbd99&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 
 ## 🚩 Coding Platform Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/Rajeshbd2001?theme=light,unicorn)<img margin="40px" align="right"></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/Rajeshbd2001)
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=RajeshBro)](https://codeforces.com/profile/RajeshBro)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
