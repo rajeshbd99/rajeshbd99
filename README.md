@@ -5,7 +5,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Rajesh Chowdhury</h1>
-<h3 align="center">A passionate Computer Science Engineer and Competitive Programmer from Bangladesh.</h3>
+<h3 align="center">A passionate Computer Science Engineering Student, Web Developer and Competitive Programmer from Bangladesh.</h3>
 
 # 💫 About Me:
 <img align="right" alt="coding" width = "160" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
