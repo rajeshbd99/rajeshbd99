@@ -4,13 +4,14 @@
 
 </div>
 
-<h1 align="center">Hi 👋, I'm Rajesh Chowdhury</h1>
 <h3 align="center">A passionate Computer Science Engineering Student, Web Developer and Competitive Programmer from Bangladesh.</h3>
 
 # 💫 About Me:
-# 👋 Hi, I'm Rajesh Chowdhury!
+<h1 align = "center"> 👋 Hi, I'm Rajesh Chowdhury!</h1>
+<div align = "center">
+🎓 Final Year CSE Student | 💻 Web Developer | 🚀 Tech Enthusiast
+</div>
 
-🎓 **Final Year CSE Student** | 💻 **Web Developer** | 🚀 **Tech Enthusiast**  
 
 I’m a passionate **full-stack web developer** currently in my final year at **KIIT University, India**. I love building web applications and exploring new technologies to solve real-world problems.  
 
