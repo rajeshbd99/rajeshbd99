@@ -8,8 +8,27 @@
 <h3 align="center">A passionate Computer Science Engineering Student, Web Developer and Competitive Programmer from Bangladesh.</h3>
 
 # 💫 About Me:
-<img align="right" alt="coding" width = "160" src="https://i.gifer.com/origin/f1/f1c839d0b1fd57dd8ee99936bfe7ecc8_w200.gif">
-👋 Hey there! I'm RAJESH CHOWDHURY, web developer and a passionate coder exploring the tech universe one bug at a time.<br><br>💻 Coding enthusiast on a mission to turn ideas into reality through elegant lines of code.<br><br>🌱 Lifelong learner, constantly embracing new technologies and seeking innovative solutions.<br><br>🤝 Firm believer in the power of collaboration, let's build something awesome together!<br><br>📚 When not coding, you'll find me with a book in hand or outdoors, seeking inspiration.<br><br>🚀 Join me in this journey of creativity, curiosity, and endless lines of code!
+# 👋 Hi, I'm Rajesh Chowdhury!
+
+🎓 **Final Year CSE Student** | 💻 **Web Developer** | 🚀 **Tech Enthusiast**  
+
+I’m a passionate **full-stack web developer** currently in my final year at **KIIT University, India**. I love building web applications and exploring new technologies to solve real-world problems.  
+
+## 💻 About Me  
+💡 **Frontend-focused developer** who loves crafting responsive and user-friendly web applications.  
+⚡ Passionate about writing **clean, efficient, and maintainable code** for modern web solutions.  
+🌱 Constantly learning and exploring **new frameworks, libraries, and best practices** in web development.  
+🤝 **Collaborative mindset**, eager to contribute to projects and open-source initiatives.  
+🚀 Enthusiastic about **performance optimization, accessibility, and interactive UI/UX design**.  
+
+## 🚀 Skills & Technologies  
+- **Frontend:** HTML, CSS, Tailwind CSS, DaisyUI, JavaScript, React.js  
+- **Backend:** Node.js, Express.js, Firebase  
+- **Database:** MongoDB  
+- **Tools & Deployment:** API Integration, Git, GitHub, Vercel, Netlify  
+
+🔗 **Let's connect and build something amazing!** 🚀🔥
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rajeshbd99&icon=3&color=10)](https://visitcount.itsvg.in)
@@ -59,4 +78,3 @@
 
 <img width=100% title="Coder." alt="" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Practice🔁Everyday&fontSize=20&fontColor=fff&animation=twinkling&fontAlignY=72"/>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
