@@ -4,8 +4,6 @@
 
 </div>
 
-<h3 align="center">A passionate Computer Science Engineering Student, Web Developer and Competitive Programmer from Bangladesh.</h3>
-
 # 💫 About Me:
 <h1 align = "center"> 👋 Hi, I'm Rajesh Chowdhury!</h1>
 <div align = "center">
@@ -15,7 +13,6 @@
 
 I’m a passionate **full-stack web developer** currently in my final year at **KIIT University, India**. I love building web applications and exploring new technologies to solve real-world problems.  
 
-## 💻 About Me  
 💡 **Frontend-focused developer** who loves crafting responsive and user-friendly web applications.  
 ⚡ Passionate about writing **clean, efficient, and maintainable code** for modern web solutions.  
 🌱 Constantly learning and exploring **new frameworks, libraries, and best practices** in web development.  
@@ -41,8 +38,10 @@ I’m a passionate **full-stack web developer** currently in my final year at **
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/Rajeshbd2001/)
 [![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/rajesh99_bd?hr_r=1)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/rajesh99bd)
+
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=plastic&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=plastic&logo=java&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=plastic&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=plastic&logo=oracle&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=plastic&logo=Adobe%20Lightroom&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black)
+
 # 📊 GitHub Stats:
 <div style="display: flex; flex-direction: row;">
     <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajeshbd99&theme=vision_friendly_dark" style="margin-right: 10px;">
